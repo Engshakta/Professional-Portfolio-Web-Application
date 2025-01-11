@@ -1,6 +1,6 @@
 # Professional Portfolio Web Application
 
-This is a professional portfolio web application built using Node.js, Material Design, and interactive UI components.
+This is a professional portfolio web application built using JavaScript, Material Design, and interactive UI components.
 
 ## Features
 
@@ -13,7 +13,7 @@ This is a professional portfolio web application built using Node.js, Material D
 
 - HTML
 - CSS
-- JavaScript (Node.js)
+- JavaScript
 - Material Design
 - GitHub Pages
 
